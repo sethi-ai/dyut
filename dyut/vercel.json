@@ -1,0 +1,14 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/makes",
+      "destination": "/makes.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact.html"
+    }
+  ]
+}
